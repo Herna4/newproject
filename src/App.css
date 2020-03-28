@@ -1,5 +1,6 @@
 html{
-  min-height: 100%;
+  height: 100%;
+  /* width: 100% */
 }
 
 body {
@@ -8,9 +9,9 @@ body {
   font-family: sans-serif;
   background: url(/img/image.jpeg) no-repeat;
   background-size: 100%;
-  background-position: botton;
-  background-color: #95e8f3;
-  min-height: 100%;
+  /* background-position: botton; */
+  /* background-color: #95e8f3; */
+  height: 100%;
 }
 
 form {

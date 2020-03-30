@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
     return (
         <ul className="right">
             <li><NavLink to='/signup'>SignUp</NavLink></li>
-            <li><NavLink to='/signin' >Signin</NavLink></li>
+            <li><NavLink to='/signin' >SignIn</NavLink></li>
         </ul>
     )
 }
